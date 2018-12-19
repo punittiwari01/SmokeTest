@@ -1,0 +1,5 @@
+username = shubham.sharma@peak.ai
+password = Shubham@1
+tenant   = punit_test_001
+browser  = chrome
+url      = https://ais.test.peak.ai
