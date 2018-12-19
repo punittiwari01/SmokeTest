@@ -1,5 +1,5 @@
-username = shubham.sharma@peak.ai
+username = Type your username
 password = Type your password
-tenant   = punit_test_001
+tenant   = Type your tenant name
 browser  = chrome
 url      = https://ais.test.peak.ai
